@@ -1709,7 +1709,7 @@ NATIVE_TALENTS = {
 		group = 9,
 	},
 	special_bonus_unique_invoker_8 = {
-		group = 10,
+		group = 8,
 	},
 	special_bonus_unique_gyrocopter_1 = false,
 	special_bonus_unique_gyrocopter_3 = {
